@@ -31,16 +31,16 @@ import numpy as np
 ######################
 
 # Where to save the final figure
-OUTPUT_FIGURE_PATH = "/Users/timothystolarz/python_projects/side_projects/25_03_18_MARACOOS_Scripts/25_01_27_computer_space_bars/output"
+OUTPUT_FIGURE_PATH = "/path/to/working/folder/output"
 
 # If your server or environment can't open a GUI, we should run in headless mode:
 HEADLESS = True
 
 # WebDriver Path (change according to your driver)
-CHROME_DRIVER_PATH = "/Users/timothystolarz/python_projects/side_projects/25_03_18_MARACOOS_Scripts/25_01_27_computer_space_bars/chromedriver-mac-arm64/chromedriver"
+CHROME_DRIVER_PATH = "/path/to/working/folder/chromedriver-mac-arm64/chromedriver"
 
 # Cookie path
-COOKIE_PATH = "/Users/timothystolarz/python_projects/side_projects/25_03_18_MARACOOS_Scripts/25_01_27_computer_space_bars/cookies"
+COOKIE_PATH = "/path/to/working/folder/cookies"
 
 # Credentials file path (JSON file containing login information)
 CREDENTIALS_FILE = "credentials.json"
